@@ -30,7 +30,7 @@ To get a copy of this repository up and running on your local machine, follow th
 
 Here is a list of the problems solved in this repository:
 
-  ### Problem 1: Merge Strings Alternately
+  ### [Problem 1: Merge Strings Alternately](https://github.com/Yashas711/leedcode/tree/main/Merge%20Strings%20Alternately)
 
 ## Contributing
 Contributions are welcome! If you have a solution to a problem or improvements to existing solutions, feel free to fork the repository and submit a pull request.
